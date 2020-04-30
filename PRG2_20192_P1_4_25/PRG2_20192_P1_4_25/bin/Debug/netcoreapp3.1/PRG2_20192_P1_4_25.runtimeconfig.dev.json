@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Destrio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Destrio\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Destrio\source\repos\PRG2_20192_P1_4_25\PRG2_20192_P1_4_25\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_25.csprojAssemblyReference.cache
+C:\Users\Destrio\source\repos\PRG2_20192_P1_4_25\PRG2_20192_P1_4_25\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_25.AssemblyInfoInputs.cache
+C:\Users\Destrio\source\repos\PRG2_20192_P1_4_25\PRG2_20192_P1_4_25\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_25.AssemblyInfo.cs
+C:\Users\Destrio\source\repos\PRG2_20192_P1_4_25\PRG2_20192_P1_4_25\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_25.exe
+C:\Users\Destrio\source\repos\PRG2_20192_P1_4_25\PRG2_20192_P1_4_25\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_25.deps.json
+C:\Users\Destrio\source\repos\PRG2_20192_P1_4_25\PRG2_20192_P1_4_25\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_25.runtimeconfig.json
+C:\Users\Destrio\source\repos\PRG2_20192_P1_4_25\PRG2_20192_P1_4_25\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_25.runtimeconfig.dev.json
+C:\Users\Destrio\source\repos\PRG2_20192_P1_4_25\PRG2_20192_P1_4_25\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_25.dll
+C:\Users\Destrio\source\repos\PRG2_20192_P1_4_25\PRG2_20192_P1_4_25\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_25.pdb
+C:\Users\Destrio\source\repos\PRG2_20192_P1_4_25\PRG2_20192_P1_4_25\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_25.dll
+C:\Users\Destrio\source\repos\PRG2_20192_P1_4_25\PRG2_20192_P1_4_25\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_25.pdb
